@@ -1,9 +1,9 @@
 # YTV-Dowloader
 You Tube video Downloader- Application that helps the user to download the youtube videos
 # Application Type
-  Web Application
+  python file
 # To Run Application
-   python manage.py runserver
+   python ytv-downloader.py
 # Required Libraries
    Read requirements.txt
    
